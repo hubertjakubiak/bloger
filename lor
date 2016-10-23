@@ -1,5 +1,12 @@
-[32m.[0m
+[32m.[0m[32m.[0m[32m.[0m[33m*[0m
 
-Finished in 1.25 seconds (files took 50.82 seconds to load)
-[32m1 example, 0 failures[0m
+Pending: (Failures listed here are expected and do not affect your suite's status)
+[33m
+  1) User add some examples to (or delete) /home/hubert/projects/bloger/spec/models/user_spec.rb[0m
+     [36m# Not yet implemented[0m
+[36m     # ./spec/models/user_spec.rb:4
+[0m
+
+Finished in 0.87876 seconds (files took 10.04 seconds to load)
+[33m4 examples, 0 failures, 1 pending[0m
 
